@@ -1,0 +1,9 @@
+Resources/
+Resources/*.*
+Resources*.*
+*env/
+*env/*.*
+*.zip
+.ipynb_checkpoints/
+.ipynb_checkpoints/*.*
+desktop.ini
